@@ -1,0 +1,12 @@
+telegram:
+  bot:
+    username: "DiamondEssenceBot"
+    token: "7739943785:AAHSOpeWJkz6qzz1i16BNzHftKrIrM6gFcI"
+  group:
+    link: "https://t.me/+L3O9AnfQMuM1NmUx"
+
+pagbank:
+  public_key: "f9a9a900-230f-4b6a-8d0c-ee3a0607fa673f5360e3484889b0b2f73cd2bcedec8e922e-7b2f-4442-bff7-db5dc8de0bd0"
+
+server:
+  port: 8080

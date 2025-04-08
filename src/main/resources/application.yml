@@ -1,12 +1,12 @@
 telegram:
   bot:
-    username: "Nome_DO_BOT"
-    token: "TOKEN_DO_BOT"
+    username: "NOMEDOBOT"
+    token: "TOKEN DO BOT"
   group:
-    link: "https://t.me/+LINKTELEGRAM"
+    link: "https://t.me/LINKDOGRUPO"
 
 pagbank:
-  public_key: "SUA_CHAVE_PUBLICA_PAGBANK"
+  public_key: "KEYPUBLIC"
 
 server:
   port: 8080
