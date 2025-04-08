@@ -1,0 +1,12 @@
+telegram:
+  bot:
+    username: "Nome_DO_BOT"
+    token: "TOKEN_DO_BOT"
+  group:
+    link: "https://t.me/+LINKTELEGRAM"
+
+pagbank:
+  public_key: "SUA_CHAVE_PUBLICA_PAGBANK"
+
+server:
+  port: 8080
